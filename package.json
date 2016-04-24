@@ -1,0 +1,26 @@
+{
+  "name": "trav",
+  "version": "0.0.1",
+  "description": "trav(obj, 'foo', function (fooValue) { return fooValue + '42'}) => { foo: 'bar42'}",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangya/trav.git"
+  },
+  "keywords": [
+    "object",
+    "transform"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangya/trav/issues"
+  },
+  "homepage": "https://github.com/zhuangya/trav#readme",
+  "devDependencies": {
+    "ava": "^0.14.0"
+  }
+}
