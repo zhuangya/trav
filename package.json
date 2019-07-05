@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/zhuangya/trav#readme",
   "devDependencies": {
-    "ava": "^0.14.0"
+    "ava": "^2.1.0"
   }
 }
